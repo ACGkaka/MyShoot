@@ -7,7 +7,7 @@
 * Java版飞机大战游戏；
 * 用于Java入门学习。
 
-#项目截图
+## 项目截图
 ![ACGkaka-个人博客](./screenshots/1_cover.png "ACGkaka-个人博客")
 ![ACGkaka-个人博客](./screenshots/5_gameover.png "ACGkaka-个人博客")
 
