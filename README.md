@@ -10,9 +10,7 @@
 ## 项目截图
 
 ![ACGkaka-个人博客](./screenshots/1_cover.png "ACGkaka-个人博客")
-![ACGkaka-个人博客](./screenshots/2_start.png "ACGkaka-个人博客")
 ![ACGkaka-个人博客](./screenshots/3_play.png "ACGkaka-个人博客")
-![ACGkaka-个人博客](./screenshots/4_pause.png "ACGkaka-个人博客")
 ![ACGkaka-个人博客](./screenshots/5_gameover.png "ACGkaka-个人博客")
 
 ## License
