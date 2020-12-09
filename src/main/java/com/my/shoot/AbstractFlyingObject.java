@@ -56,8 +56,9 @@ public abstract class AbstractFlyingObject {
      */
     static BufferedImage loadImage(String fileName) {
         try {
-            //读取同包中的资源
-            return ImageIO.read(Objects.requireNonNull(AbstractFlyingObject.class.getClassLoader().getResource(fileName)));
+            //读取resources中的资源
+            URL url = AbstractFlyingObject.class.getClassLoader().getResource(fileName);
+            return ImageIO.read(Objects.requireNonNull(url));
         } catch (Exception e) {
             // 跟踪异常并打印出来
             e.printStackTrace();
